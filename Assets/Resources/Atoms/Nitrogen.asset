@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6415568143118624588f79aaf1bfaf00, type: 3}
+  m_Name: Nitrogen
+  m_EditorClassIdentifier: 
+  atomicNumber: 7
+  symbol: N
+  elementName: Nitrogen
+  atomicMass: 14.007
+  group: 15
+  period: 2
+  elementColor: {r: 0, g: 0, b: 1, a: 1}
+  category: 5
+  description: 
